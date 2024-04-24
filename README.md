@@ -15,8 +15,8 @@ Setup Basic Home Lab Running Active Directory and Bulk Add Users
   - Set up routing and remote access
     - Install NAT
     - Configure DHCP Server
-4. Run Powershell Script to bulk add users
-  - Inside the Domain Controller, run the Powershell Script
+4. Run PowerShell Script to bulk add users
+  - Inside the Domain Controller, run the PowerShell Script
   - Creates users with account password, given name, surname, and user ID
   - Uses names from text file and with a default password
 5. Windows 10 VM will act as client:
