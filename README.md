@@ -25,4 +25,10 @@ Setup Basic Home Lab Running Active Directory and Bulk Add Users
   - Set up Address Lease for computer
   - Active Directory users can now use their account details to log in
 
+![image](https://github.com/jsmccaffrey/Active-Directory/assets/84482329/b49c7523-612b-4c8e-919e-086c4e922e35)
+![image](https://github.com/jsmccaffrey/Active-Directory/assets/84482329/489fac95-f891-47a2-bde7-0aea1425879c)
+![image](https://github.com/jsmccaffrey/Active-Directory/assets/84482329/3ec0bf26-90e5-45db-9283-d762e4064288)
+
+
+
 
